@@ -6,3 +6,4 @@
 -->
 
 ## Complete the "main.py"
+## I had to important random. I made three separate variables to each hold a random number. I then use three if statements to compare each of the numbers. If the if statement goes through , the current number we are comparing with becomes the lowest numbeer with the lower variable. We then print the lower variable. 
