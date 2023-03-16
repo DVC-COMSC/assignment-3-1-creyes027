@@ -3,7 +3,8 @@ def main():
     number1 = random.randint(1,100)
     number2 = random.randint(1,100)
     number3 = random.randint(1,100)
-    print(f'Three random numbers: {number1},{number2},{number3}')
+#     print(f'Three random numbers: {number1},{number2},{number3}')
+    print(f'{number1} {number2}{number3}')
 
     if(number1 < number2 and number1 < number3):
         lowest = number1
