@@ -10,7 +10,7 @@ def main():
 
     if(number1 < number2 and number1 < number3):
         lowest = number1
-    elif(number2 < number1 and number1 < number3):
+    elif(number2 < number1 and number2 < number3):
         lowest = number2
     else:
         lowest = number3
