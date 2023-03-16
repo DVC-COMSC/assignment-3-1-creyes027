@@ -1,7 +1,4 @@
 def main():
-    ##################################################
-    # Comlete your code here
-    ##################################################
     import random
     number1 = random.randint(1,100)
     number2 = random.randint(1,100)
@@ -16,5 +13,6 @@ def main():
         lowest = number3
         
     print(f'The lowest number is {lowest} ')
+    pass
 if __name__ == '__main__':
     main()
